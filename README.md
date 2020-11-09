@@ -1,5 +1,5 @@
 # readEmailPython
-Python script to search and read emails by entering a key term.
+Python script to search and read emails(gmail only) by entering a key term.
 
 Steps to access:
 1. Run the python script.
